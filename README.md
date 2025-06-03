@@ -28,5 +28,5 @@ Here are a few projects I’ve worked on or contributed to (see pinned repos bel
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/ec78)  
-- [LinkedIn]([https://www.linkedin.com/in/eric-clower/)  
+- [LinkedIn](https://www.linkedin.com/in/eric-clower/)  
 - [Aptech Blog](https://www.aptech.com/blog/) – Educational content and tutorials I author and manage  
