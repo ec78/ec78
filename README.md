@@ -1,6 +1,6 @@
 # Hi, I'm Eric Clower
 
-I'm a data analytics and software development professional with deep experience in product development, statistical modeling, and user education. Currently, I serve as Director of Training and Applications at [Aptech Systems](https://www.aptech.com), where I lead product development and user enablement for GAUSS, a platform for advanced statistical computing.
+I'm a data analytics and software development professional with deep experience in product development, statistical modeling, and user education. Currently, I serve as the Direction of Education Services at [IMPLAN](https://implan.com/). Prior to this position, I served as Director of Training and Applications at [Aptech Systems](https://www.aptech.com), where I lead product development and user enablement for GAUSS, a platform for advanced statistical computing.
 
 ## 🧩 What I Do
 
@@ -13,7 +13,7 @@ I'm a data analytics and software development professional with deep experience 
 ## 🛠️ Tools & Languages
 
 - Languages: GAUSS, Python, R, SQL, Markdown  
-- Specialties: Time Series Analysis, Panel Data, Forecasting, Econometrics  
+- Specialties: Time Series Analysis, Panel Data, Forecasting, Econometrics, Economic Impact Analysis  
 - Dev Practices: Testing, Documentation, Product Feature Planning  
 - AI Tools: ChatGPT, Claude, Gemini (Prompt Engineering Certified)  
 
@@ -29,4 +29,6 @@ Here are a few projects I’ve worked on or contributed to (see pinned repos bel
 
 - [GitHub](https://github.com/ec78)  
 - [LinkedIn](https://www.linkedin.com/in/ericaclower/)  
-- [Aptech Blog](https://www.aptech.com/blog/) – Educational content and tutorials I author and manage  
+- [Aptech Blog](https://www.aptech.com/blog/) – Educational content and tutorials I author and manage
+
+<img width="245" height="224" alt="image" src="https://github.com/user-attachments/assets/f20c8640-c6d9-42e0-b160-96bd45988b31" />
