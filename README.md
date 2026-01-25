@@ -1,34 +1,42 @@
-# Hi, I'm Eric Clower
+## Eric Clower
 
-I'm a data analytics and software development professional with deep experience in product development, statistical modeling, and user education. Currently, I serve as the Direction of Education Services at [IMPLAN](https://implan.com/). Prior to this position, I served as Director of Training and Applications at [Aptech Systems](https://www.aptech.com), where I lead product development and user enablement for GAUSS, a platform for advanced statistical computing.
+**Director of Education & Applications focused on making advanced econometric software usable, reliable, and teachable.**
 
-## 🧩 What I Do
+I work at the intersection of technical depth, product ownership, and user enablement. My role centers on translating advanced econometric and time-series methods into production-ready software, clear documentation, and effective training that helps users do real work with confidence.
 
-- Build and test statistical modeling tools for time series, econometrics, and forecasting  
-- Develop automated test suites for analytical software libraries  
-- Design technical documentation and training workflows to support user onboarding  
-- Use AI tools like ChatGPT to accelerate development and improve support and content strategy  
-- Collaborate across product, engineering, and customer teams to deliver technical solutions that work  
+Much of my work has been within the GAUSS ecosystem, where I’ve led development, testing, documentation, and education initiatives supporting applied economists, analysts, and researchers. The repositories here reflect long-horizon, real-world software development: not just models that run, but tools that are maintainable, testable, and understandable to the people who rely on them.
 
-## 🛠️ Tools & Languages
+I currently serve as **Director of Education Services at IMPLAN**, where my work emphasizes applied economics, user enablement, and helping organizations translate economic theory into practical insight for decision-making.
 
-- Languages: GAUSS, Python, R, SQL, Markdown  
-- Specialties: Time Series Analysis, Panel Data, Forecasting, Econometrics, Economic Impact Analysis  
-- Dev Practices: Testing, Documentation, Product Feature Planning  
-- AI Tools: ChatGPT, Claude, Gemini (Prompt Engineering Certified)  
+---
 
-## 📌 Featured Repositories
+## What this GitHub contains
 
-Here are a few projects I’ve worked on or contributed to (see pinned repos below for more):
+This GitHub primarily reflects my work supporting **education, documentation, and user enablement** for advanced analytical software, alongside the technical foundations that make that work credible and sustainable.
 
-- [`aptech/tspdlib`](https://github.com/aptech/tspdlib) – A collaborative GAUSS library developed with a GAUSS power user, offering advanced tools for panel data, time series, and dynamic model estimation. Built to expand GAUSS capabilities with flexible, high-performance procedures for applied researchers.
-- [`aptech/docs`]([https://github.com/aptech/tspdlib](https://github.com/aptech/docs)) – The official GAUSS documentation repository, housing user guides, function references, and tutorials. I manage and contribute to this content to ensure clear, accurate, and accessible resources for GAUSS users across research, education, and applied analytics.  
-- [`aptech/blog`](https://github.com/aptech/gauss_blog) – Source content for the GAUSS analytics blog, featuring technical tutorials, applied econometrics, and programming best practices. I lead content development, author blog posts, and manage publishing to support user education and product adoption.  
+Across the repositories here, you’ll find:
 
-## 📫 Connect With Me
+- **Production GAUSS code** supporting econometric, time-series, and simulation workflows used by applied economists and analysts
+- **Reference implementations and test suites** designed to ensure correctness, reproducibility, and long-term maintainability
+- **Teaching examples and instructional code** used in training, documentation, and user support
+- **Internal tooling and utilities** developed to support product reliability and developer workflows
 
-- [GitHub](https://github.com/ec78)  
-- [LinkedIn](https://www.linkedin.com/in/ericaclower/)  
-- [Aptech Blog](https://www.aptech.com/blog/) – Educational content and tutorials I author and manage
+While much of this work is technical in nature, it is driven by an education-first perspective: building tools that are not only statistically sound, but also understandable, teachable, and usable by real practitioners.
 
-<img width="245" height="224" alt="image" src="https://github.com/user-attachments/assets/f20c8640-c6d9-42e0-b160-96bd45988b31" />
+---
+
+## How to read this GitHub
+
+Different readers may approach this work with different questions in mind:
+
+- **If you’re evaluating technical depth**, focus on the core model implementations, test suites, and long-horizon codebases that emphasize correctness and maintainability.
+- **If you’re interested in education and enablement**, look for instructional examples, documentation-oriented code, and repositories designed to support learning and user success.
+- **If you’re assessing product ownership or leadership**, note the emphasis on testing, structure, and clarity—signals of software built to be supported, taught, and evolved over time.
+
+---
+
+## Elsewhere
+
+- **LinkedIn:** https://www.linkedin.com/in/ericclower  
+- **Professional portfolio:** (link forthcoming)  
+- **Aptech / GAUSS writing & documentation:** https://www.aptech.com/blog/
