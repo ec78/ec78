@@ -37,7 +37,7 @@ Different readers may approach this work with different questions in mind:
 
 ## Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/ericclower)  
+- [LinkedIn](https://www.linkedin.com/in/ericaclower)  
 - [Professional portfolio](https://ec78.github.io/ericclower-portfolio/) 
 - [IMPLAN writing & documentation](https://support.implan.com)
 - [Aptech / GAUSS writing & documentation](https://www.aptech.com/blog/)
