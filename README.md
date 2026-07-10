@@ -12,7 +12,7 @@ I currently serve as **Director of Education Services at IMPLAN**, where my work
 
 ## What this GitHub contains
 
-This GitHub primarily reflects my work supporting **education, documentation, and user enablement** for advanced analytical software, alongside the technical foundations that make that work credible and sustainable.
+This GitHub primarily reflects my work supporting **product development, education, documentation, and user enablement** for advanced analytical software, alongside the technical foundations that make that work credible and sustainable.
 
 Across the repositories here, you’ll find:
 
